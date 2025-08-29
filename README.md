@@ -1,20 +1,7 @@
 # n8n-handson
 
-<img width="989" height="150" alt="image" src="https://github.com/user-attachments/assets/2b1a2fc9-eadb-4416-bc5e-4a369add51ee" />
-
-<img width="918" height="190" alt="image" src="https://github.com/user-attachments/assets/8e31e18e-8f5d-4ed5-9ecc-35bc2b4cf46c" />
-
-<img width="962" height="142" alt="image" src="https://github.com/user-attachments/assets/434095c1-68c8-4498-b26e-bceebf2fc21a" />
-
-
-<img width="989" height="186" alt="image" src="https://github.com/user-attachments/assets/2b1a2fc9-eadb-4416-bc5e-4a369add51ee" />
-
-<img width="918" height="228" alt="image" src="https://github.com/user-attachments/assets/8e31e18e-8f5d-4ed5-9ecc-35bc2b4cf46c" />
-
-<img width="962" height="174" alt="image" src="https://github.com/user-attachments/assets/434095c1-68c8-4498-b26e-bceebf2fc21a" />
-
-
-
-
-
+These are some Gan AI tools definitons of n8n :
+_"n8n is an open-source workflow automation tool that lets you connect apps, APIs, and services with minimal coding.
+It enables building custom workflows for data syncing, process automation, and integrations through a visual editor.
+"_
 
